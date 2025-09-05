@@ -21,6 +21,9 @@ Else: Proceed.
 
 
 Step 3: Load UserDetails using UserDetailsService.loadUserByUsername(email).
+
+
+
 Step 4: Query UserRepo.findFirstByEmail(email) to get user entity.
 
 Decision: If user not found → Throw UserApiException ("User not found").
