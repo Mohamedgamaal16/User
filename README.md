@@ -3,7 +3,7 @@
 This is a Spring Boot application that provides a secure REST API for user authentication and management using JSON Web Tokens (JWT). It supports **access tokens** and **refresh tokens** for secure, stateless authentication. The API includes features like user registration, login, admin account creation, user data retrieval, role-based access control, refresh token support, and rate limiting.
 
 ---
-<img width="1920" height="1080" alt="Education Whiteboard in Pastel Orange Teal Rose Pink Style" src="https://github.com/user-attachments/assets/97be0129-4b25-4031-819b-5946e6fd23da" />
+<img width="1920" height="1080" alt="Education Whiteboard in Pastel Orange Teal Rose Pink Style-2" src="https://github.com/user-attachments/assets/a96a04e0-4b08-4453-8ccd-7fa62ba5c357" />
 
 1. Login Process (/api/login)
 
